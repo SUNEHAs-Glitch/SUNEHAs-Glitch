@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suneha Roshan</h1>
 
-<!--
-**SUNEHAs-Glitch/SUNEHAs-Glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Full Stack Developer • 🤖 AI Engineer • ⚙️ Software Engineer • 📱 Android Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building intelligent applications, modern web experiences, Android applications, and AI-powered solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Software+Engineer;Android+Developer;Building+AI+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **AI-powered applications**
+- 🌱 Currently learning **Cybersecurity & Advanced AI**
+- 💡 Passionate about solving real-world problems using technology
+- 👨‍💻 Interested in AI, Full Stack Development and Android Development
+- 🎯 Goal: Become a Professional Software Engineer & AI Engineer
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=typescript" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- 🤖 AI Exam Proctoring System
+- 🛍️ E-Commerce Website
+- 🎨 AI Air Drawing System
+- 🌿 Plant Disease Detection System
+- 🛡️ Safeguard Safety Application
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/SUNEHAs-Glitch">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
