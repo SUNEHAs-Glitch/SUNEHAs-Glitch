@@ -71,3 +71,45 @@ Passionate about building intelligent applications, modern web experiences, Andr
 <p align="center">
 ⭐ Thank you for visiting my profile! ⭐
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SUNEHAs-Glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNEHAs-Glitch&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SUNEHAs-Glitch&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SUNEHAs-Glitch&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNEHAs-Glitch&theme=tokyo-night&hide_border=true"/>
+
+</p>
