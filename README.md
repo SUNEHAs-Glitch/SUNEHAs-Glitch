@@ -113,3 +113,14 @@ Passionate about building intelligent applications, modern web experiences, Andr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNEHAs-Glitch&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SUNEHAs-Glitch&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+</p>
+---
+
+## 💭 Developer Philosophy
+
+> *"Every line of code is an opportunity to solve a real-world problem and become a better engineer."*
+
+⭐ If you like my work, consider giving a star to my repositories.
