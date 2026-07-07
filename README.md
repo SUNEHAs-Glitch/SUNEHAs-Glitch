@@ -16,10 +16,11 @@ Passionate about building intelligent applications, modern web experiences, Andr
 
 ## 🚀 About Me
 
+
 - 🔭 Currently working on **AI-powered applications**
 - 🌱 Currently learning **Cybersecurity & Advanced AI**
 - 💡 Passionate about solving real-world problems using technology
-- 👨‍💻 Interested in AI, Full Stack Development and Android Development
+- 👨‍💻 Currently working in AI, Full Stack Development and Android Development
 - 🎯 Goal: Become a Professional Software Engineer & AI Engineer
 
 ---
@@ -47,14 +48,22 @@ Passionate about building intelligent applications, modern web experiences, Andr
 ---
 
 ## 🌟 Featured Projects
+| Project                    | Description                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| 🤖 AI Exam Proctoring      | Detects suspicious activities during online exams using AI and computer vision. |
+| 🛍️ E-Commerce Platform    | Modern React + TypeScript shopping application.                                 |
+| ✍️ AI Air Drawing          | Draw in the air using hand gesture recognition.                                 |
+| 🌿 Plant Disease Detection | CNN-based model for identifying plant diseases.                                 |
+| 🛡️ Safeguard              | Android emergency safety application with SOS and location sharing.             |
 
-- 🤖 AI Exam Proctoring System
-- 🛍️ E-Commerce Website
-- 🎨 AI Air Drawing System
-- 🌿 Plant Disease Detection System
-- 🛡️ Safeguard Safety Application
 
----
+## 🎯 Current Goals
+
+- Build impactful AI applications
+- Strengthen Full Stack development skills
+- Learn Cybersecurity
+- Contribute to open-source projects
+- Create software that makes a positive impact
 
 ## 📫 Connect With Me
 
