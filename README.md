@@ -48,99 +48,106 @@ Passionate about building intelligent applications, modern web experiences, Andr
 ---
 
 # 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 AI Exam Proctoring System
+<td width="50%" valign="top">
 
-AI-powered online examination monitoring using Computer Vision, TensorFlow, and OpenCV.
+## 🤖 AI Exam Proctoring System
+
+AI-powered online exam monitoring that detects suspicious activities such as multiple faces, phone usage, and head movement using Computer Vision and Deep Learning.
 
 **Tech Stack**
 
 `Python` `TensorFlow` `OpenCV` `MediaPipe`
 
-<p>
 <a href="https://github.com/SUNEHAs-Glitch/AI-Exam-Proctoring-System">
-<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 AI Air Drawing System
+## 🎨 AI Air Drawing System
 
-Draw in the air using AI-powered hand gesture recognition.
+AI-powered virtual drawing application that recognizes hand gestures, allowing users to draw in the air without touching the screen.
 
 **Tech Stack**
 
-`Python` `OpenCV` `MediaPipe` `Streamlit`
+`Python` `OpenCV` `MediaPipe` `TensorFlow` `Streamlit`
 
-<p>
 <a href="https://github.com/SUNEHAs-Glitch/AI-Air-Drawing-System">
-<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🛡️ Safeguard
+<td width="50%" valign="top">
 
-Android safety application with SOS alerts and live location.
+## 🛡️ Safeguard Safety Application
+
+Android emergency application with one-tap SOS alerts, emergency contacts, live location sharing, Google Maps integration, and siren support.
 
 **Tech Stack**
 
-`Java` `Android` `XML`
+`Java` `Android Studio` `XML` `Google Maps API`
 
-<p>
 <a href="https://github.com/SUNEHAs-Glitch/Safeguard-Safety-Application">
-<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌿 Plant Disease Detection
+## 🌿 Plant Disease Detection System
 
-Deep Learning model for plant disease classification.
+Deep learning system that identifies plant diseases from leaf images using CNN and Computer Vision.
 
-**Coming Soon**
+**Status**
+
+🚧 Uploading Soon
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🛍️ E-Commerce Website
+<td width="50%" valign="top">
 
-Modern responsive shopping platform.
+## 🛍️ E-Commerce Website
 
-**Coming Soon**
+Modern responsive full-stack shopping platform with authentication, product management, and an intuitive user interface.
+
+**Status**
+
+🚧 Uploading Soon
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🚀 More Projects
+## 💡 More Projects
 
-More exciting AI and Full Stack projects are on the way.
+I'm continuously building AI, Android, and Full Stack applications to solve real-world problems.
 
-⭐ Stay tuned!
+⭐ More exciting repositories coming soon.
 
 </td>
 
 </tr>
+
 </table>
+
+
 
 ## 🎯 Current Goals
 
