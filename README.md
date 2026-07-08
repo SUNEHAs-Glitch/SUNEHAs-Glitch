@@ -47,15 +47,100 @@ Passionate about building intelligent applications, modern web experiences, Andr
 
 ---
 
-## 🌟 Featured Projects
-| Project                    | Description                                                                     |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| 🤖 AI Exam Proctoring      | Detects suspicious activities during online exams using AI and computer vision. |
-| 🛍️ E-Commerce Platform    | Modern React + TypeScript shopping application.                                 |
-| ✍️ AI Air Drawing          | Draw in the air using hand gesture recognition.                                 |
-| 🌿 Plant Disease Detection | CNN-based model for identifying plant diseases.                                 |
-| 🛡️ Safeguard              | Android emergency safety application with SOS and location sharing.             |
+# 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Exam Proctoring System
+
+AI-powered online examination monitoring using Computer Vision, TensorFlow, and OpenCV.
+
+**Tech Stack**
+
+`Python` `TensorFlow` `OpenCV` `MediaPipe`
+
+<p>
+<a href="https://github.com/SUNEHAs-Glitch/AI-Exam-Proctoring-System">
+<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🎨 AI Air Drawing System
+
+Draw in the air using AI-powered hand gesture recognition.
+
+**Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Streamlit`
+
+<p>
+<a href="https://github.com/SUNEHAs-Glitch/AI-Air-Drawing-System">
+<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ Safeguard
+
+Android safety application with SOS alerts and live location.
+
+**Tech Stack**
+
+`Java` `Android` `XML`
+
+<p>
+<a href="https://github.com/SUNEHAs-Glitch/Safeguard-Safety-Application">
+<img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🌿 Plant Disease Detection
+
+Deep Learning model for plant disease classification.
+
+**Coming Soon**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛍️ E-Commerce Website
+
+Modern responsive shopping platform.
+
+**Coming Soon**
+
+</td>
+
+<td width="50%">
+
+## 🚀 More Projects
+
+More exciting AI and Full Stack projects are on the way.
+
+⭐ Stay tuned!
+
+</td>
+
+</tr>
+</table>
 
 ## 🎯 Current Goals
 
